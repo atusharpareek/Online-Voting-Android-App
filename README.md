@@ -24,3 +24,5 @@ Functions Available:
   - Review Candidates
   - End Elections
   - Logout
+
+After downloading all files go to ".graddle.zip" an put all file in the folder named "Online Voting App" and then extract that zip to run the app.
